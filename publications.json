@@ -1,0 +1,1058 @@
+[
+  {
+    "title": "Misalignment-Free Defocus Deblurring via Optically Guided Aligned Synthesis",
+    "authors": "SeungHoon Lee, Eunju Lee, JuneHyoung Kwon, Jinhee Jang, YoungBin Kim",
+    "venue": "The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027)",
+    "badge": "WACV 2027",
+    "type": "conference",
+    "year": 2027,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "NegSep: Analyzing and Mitigating Background Shortcuts in Negative-Label Zero-Shot OOD Detection",
+    "authors": "Kahyeon Kim, Eunju Lee, Keunhyeung Park, JuneHyoung Kwon, Yoonji Lee, Hayeong Ryu, YoungBin Kim",
+    "venue": "NeurIPS 2026 Workshop on Grounded and Faithful Vision-Language Models for Real-World Deployment (VLM4RWD)",
+    "badge": "NeurIPS 2026 Workshop",
+    "type": "workshop",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Beyond Safe Answers: Segment-Aware Listwise Alignment for Reasoning Safety in Large Reasoning Models",
+    "authors": "JungMin Yun, JuneHyoung Kwon, Hayeong Ryu, Byeonggeuk Lim, Hoejoon Kwon, YoungBin Kim",
+    "venue": "The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "ALTSTEER: Selective Safety Steering for Moving Beyond Hard Refusals to Constructive Alternatives",
+    "authors": "Hoejoon Kwon, Byeonggeuk Lim, Kahyeon Kim, YoungBin Kim",
+    "venue": "The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Don't Count the Edits, Judge by the Outcome Alone: Reward-Based Evaluation for Grammatical Error Correction",
+    "authors": "Hayeong Ryu, Sunhee Jo, Seunguk Yu, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Look Before You Leap: Factual Decoding with Internal Attribution Signals",
+    "authors": "Hayeong Ryu, JungMin Yun, Byeonggeuk Lim, Sunhee Jo, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Detecting and Guiding LLM-Generated Korean Poetry with Interpretable Form-level Features",
+    "authors": "Keunhyeung Park, Seunguk Yu, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Align, Don't Fuse: Structure-Preserving Alignment of Collaborative and Semantic Signals for LLM-Enhanced Recommendation",
+    "authors": "Jooweon Choi, MiHyeon Kim, Eunju Lee, JuneHyoung Kwon, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines",
+    "authors": "Minkyu Kim, Juhwan Choi, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+    "badge": "EMNLP 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models",
+    "authors": "Dongjin Lee, Eunju Lee, Jinhee Jang, Yoonji Lee, YoungBin Kim",
+    "venue": "The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026, Full Research Paper, Oral)",
+    "badge": "CIKM 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Oral"
+    ],
+    "links": []
+  },
+  {
+    "title": "Beyond One-Shot Expansion: Contrastive Evidence Exploration for Multi-Hop Retrieval",
+    "authors": "JungMin Yun, YoungBin Kim",
+    "venue": "The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026, Short Paper)",
+    "badge": "CIKM 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Short"
+    ],
+    "links": []
+  },
+  {
+    "title": "IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering",
+    "authors": "JungMin Yun, YoungBin Kim",
+    "venue": "The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+    "badge": "ACL 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation",
+    "authors": "Jinhee Jang, Juhwan Choi, Dongjin Lee, Seunguk Yu, YoungBin Kim",
+    "venue": "The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+    "badge": "ACL 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.acl-long.1757/"
+      }
+    ]
+  },
+  {
+    "title": "Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks",
+    "authors": "JuneHyoung Kwon, MiHyeon Kim, Eunju Lee, JungMin Yun, Byeonggeuk Lim, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+    "badge": "ACL 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Aligning with Your Own Voice: Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs",
+    "authors": "Byeonggeuk Lim, JungMin Yun, JuneHyoung Kwon, Kyeonghyun Kim, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+    "badge": "ACL 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning",
+    "authors": "Eunju Lee, MiHyeon Kim, Junehyoung Kwon, Yoonji Lee, JiHyun Kim, Soojin Jang, YoungBin Kim",
+    "venue": "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+    "badge": "CVPR 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": [
+      {
+        "label": "Page",
+        "url": "https://cvpr.thecvf.com/virtual/2026/poster/39806"
+      }
+    ]
+  },
+  {
+    "title": "Steering LLMs toward Korean Local Speech: Iterative Refinement Framework for Faithful Dialect Translation",
+    "authors": "Keunhyeung Park, Seunguk Yu, YoungBin Kim",
+    "venue": "The Fifteenth Language Resources and Evaluation Conference (LREC 2026)",
+    "badge": "LREC 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.lrec-1.256/"
+      }
+    ]
+  },
+  {
+    "title": "Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models",
+    "authors": "JuneHyoung Kwon, JungMin Yun, YoungBin Kim",
+    "venue": "The Fifteenth Language Resources and Evaluation Conference (LREC 2026)",
+    "badge": "LREC 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought",
+    "authors": "Byeonggeuk Lim, Kyeonghyun Kim, JungMin Yun, YoungBin Kim",
+    "venue": "The Fifteenth Language Resources and Evaluation Conference (LREC 2026)",
+    "badge": "LREC 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Oral"
+    ],
+    "links": []
+  },
+  {
+    "title": "CRiT-QA: Evaluating Multi-hop Reasoning with Counterfactual Chains and Distractor Traps",
+    "authors": "JungMin Yun, JuneHyoung Kwon, YoungBin Kim",
+    "venue": "The Fifteenth Language Resources and Evaluation Conference (LREC 2026)",
+    "badge": "LREC 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.lrec-1.410/"
+      }
+    ]
+  },
+  {
+    "title": "How Should We Responsibly Adopt LLMs in the Peer Review Process?",
+    "authors": "Juhwan Choi, JungMin Yun, Changhun Kim, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EACL 2026",
+    "badge": "EACL 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Easy to Learn, yet Hard to Forget: Towards Robust Unlearning under Bias",
+    "authors": "JuneHyoung Kwon, MiHyeon Kim, Eunju Lee, Yoonji Lee, Seunghoon Lee, YoungBin Kim",
+    "venue": "The 2026 AAAI Conference on Artificial Intelligence (AAAI 2026)",
+    "badge": "AAAI 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "RefLens: End-to-End Evidence-Grounded Citation Verification with LLM Agents",
+    "authors": "SeungHoo Lee, JuneHyoung Kwon, Jooweon Choi, JungMin Yun, Seunguk Yu, Yoonji Lee, Jinhee Jang, YoungBin Kim",
+    "venue": "The 2026 AAAI Conference on Artificial Intelligence (AAAI 2026, Demonstration Program)",
+    "badge": "AAAI 2026",
+    "type": "conference",
+    "year": 2026,
+    "tags": [
+      "Demo"
+    ],
+    "links": []
+  },
+  {
+    "title": "Position on LLM-Assisted Peer Review: Addressing Reviewer Gap through Mentoring and Feedback",
+    "authors": "JungMin Yun, JuneHyoung Kwon, MiHyeon Kim, YoungBin Kim",
+    "venue": "AAAI 2026 Workshop on AI for Research (AI4Research)",
+    "badge": "AAAI 2026 Workshop",
+    "type": "workshop",
+    "year": 2026,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples",
+    "authors": "Kyohoon Jin, Juhwan Choi, JungMin Yun, Junho Lee, Soojin Jang, YoungBin Kim",
+    "venue": "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)",
+    "badge": "EMNLP 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "LLM Agents at the Roundtable: A Multi-Perspective and Dialectical Reasoning Framework for Essay Scoring",
+    "authors": "Jinhee Jang, Ayoung Moon, Minkyoung Jung, YoungBin Kim, Seung Jin Lee",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "badge": "EMNLP 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Beyond Single-User Dialogue: Assessing Multi-User Dialogue State Tracking Capabilities of Large Language Models",
+    "authors": "Sangmin Song, Juhwan Choi, JungMin Yun, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "badge": "EMNLP 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse",
+    "authors": "Seunguk Yu, JungMin Yun, Jinhee Jang, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "badge": "EMNLP 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [
+      "Findings"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.findings-emnlp.1199/"
+      }
+    ]
+  },
+  {
+    "title": "Query, Decompose, Compress: Structured Query Expansion for Efficient Multi-Hop Retrieval",
+    "authors": "JungMin Yun, YoungBin Kim",
+    "venue": "The 2025 ACM International Conference on Information and Knowledge Management (CIKM 2025)",
+    "badge": "CIKM 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks",
+    "authors": "Juhwan Choi, Junehyoung Kwon, JungMin Yun, Seunguk Yu, YoungBin Kim",
+    "venue": "ICCV 2025 Workshop on Curated Data for Efficient Learning (CDEL)",
+    "badge": "ICCV 2025 Workshop",
+    "type": "workshop",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Medal Matters: Probing LLMs’ Failure Cases Through Olympic Rankings",
+    "authors": "Juhwan Choi, Seunguk Yu, JungMin Yun, YoungBin Kim",
+    "venue": "COLM 2025 First Workshop on Optimal Reliance and Accountability in Interactions with Generative Language Models (ORIGen)",
+    "badge": "COLM 2025 Workshop",
+    "type": "workshop",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "XTag-CLIP: Robust and Reliable Thyroid Scar Analysis with Limited Data via Cross-Attention",
+    "authors": "Eunju Lee, SeungHoon Lee, YoungBin Kim, Jong-hyuk Ahn",
+    "venue": "MICCAI 2025 Workshop on Applications of Medical AI (AMAI)",
+    "badge": "MICCAI 2025 Workshop",
+    "type": "workshop",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models",
+    "authors": "Seunguk Yu, Juhwan Choi, YoungBin Kim",
+    "venue": "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    "badge": "ACL 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.acl-long.15/"
+      }
+    ]
+  },
+  {
+    "title": "Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models",
+    "authors": "Kyeonghyun Kim, Jinhee Jang, Juhwan Choi, Yoonji Lee, Kyohoon Jin, YoungBin Kim",
+    "venue": "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    "badge": "ACL 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset",
+    "authors": "Seunguk Yu, Kyeonghyun Kim, JungMin Yun, YoungBin Kim",
+    "venue": "ACL 2025 Student Research Workshop (SRW)",
+    "badge": "ACL 2025 SRW",
+    "type": "workshop",
+    "year": 2025,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.acl-srw.29/"
+      }
+    ]
+  },
+  {
+    "title": "See-Saw Modality Balance: See Gradient, and Sew Impaired Vision-Language Balance to Mitigate Dominant Modality Bias",
+    "authors": "Junehyoung Kwon, MiHyeon Kim, Eunju Lee, Juhwan Choi, YoungBin Kim",
+    "venue": "2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)",
+    "badge": "NAACL 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [
+      "Oral"
+    ],
+    "links": []
+  },
+  {
+    "title": "Hypergraph Temporal Multi-behavior Recommendation",
+    "authors": "Jooweon Choi, JuneHyoung Kwon, Yeonghwa Kim, YoungBin Kim",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "badge": "EAAI",
+    "type": "journal",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System",
+    "authors": "JungMin Yun, Juhwan Choi, Kyohoon Jin, Soojin Jang, YoungBin Kim",
+    "venue": "39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Demo Track)",
+    "badge": "AAAI 2025",
+    "type": "conference",
+    "year": 2025,
+    "tags": [
+      "Demo"
+    ],
+    "links": []
+  },
+  {
+    "title": "Rank-O-ToM: Unlocking Emotional Nuance Ranking to Enhance Affective Theory-of-Mind",
+    "authors": "JiHyun Kim, Junehyoung Kwon, MiHyeon Kim, Eunju Lee, YoungBin Kim",
+    "venue": "Theory of Mind for Artificial Intelligence (ToM4AI) Workshop at AAAI 2025 (Spotlight Paper)",
+    "badge": "AAAI 2025 Workshop",
+    "type": "workshop",
+    "year": 2025,
+    "tags": [
+      "Spotlight"
+    ],
+    "links": []
+  },
+  {
+    "title": "Enhancing Domain Generalization Performance in Low-Resource Setting via External Dataset and Pseudo Labeling with Sentence-BERT",
+    "authors": "Junho Lee, Seunguk Yu, Jinhee Jang, KeunHyeung Park, Youngbin Kim",
+    "venue": "IEEE Access, Feb 2025",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Korean football in-game conversation state tracking dataset for dialogue and turn level evaluation",
+    "authors": "Sangmin Song, Juhyoung Park, Juhwan Choi, Junho Lee, Kyohoon Jin, YoungBin Kim",
+    "venue": "Engineering Applications of Artificial Intelligence, Jan 2025",
+    "badge": "EAAI",
+    "type": "journal",
+    "year": 2025,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames",
+    "authors": "Kyohoon Jin, Sejin Paik, Jungmin Yun, Soojin Jang, Youngbin Kim",
+    "venue": "IEEE Access, Nov 2024",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2024,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation",
+    "authors": "Juhwan Choi, Yeonghwa Kim, Seunguk Yu, JungMin Yun, YoungBin Kim",
+    "venue": "The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
+    "badge": "EMNLP 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.emnlp-main.1/"
+      }
+    ]
+  },
+  {
+    "title": "Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation",
+    "authors": "Juhwan Choi, JungMin Yun, Kyohoon Jin, YoungBin Kim",
+    "venue": "The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
+    "badge": "EMNLP 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.emnlp-main.2/"
+      }
+    ]
+  },
+  {
+    "title": "IM-BERT: Enhancing Robustness of BERT through the Implicit Euler Method",
+    "authors": "MiHyeon Kim, Juhyoung Park, YoungBin Kim",
+    "venue": "The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
+    "badge": "EMNLP 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.emnlp-main.907/"
+      }
+    ]
+  },
+  {
+    "title": "DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation",
+    "authors": "Soojin Jang, Jungmin Yun, Junehyoung Kwon, Eunju Lee, YoungBin Kim",
+    "venue": "The 18th European Conference on Computer Vision (ECCV 2024)",
+    "badge": "ECCV 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2409.15801"
+      }
+    ]
+  },
+  {
+    "title": "Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks",
+    "authors": "Seunguk Yu, Juhwan Choi, Youngbin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: NAACL 2024",
+    "badge": "NAACL 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [
+      "Findings"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.findings-naacl.219/"
+      }
+    ]
+  },
+  {
+    "title": "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation",
+    "authors": "Kyohoon Jin, Junho Lee, Juhwan Choi, Sangmin Song, Youngbin Kim",
+    "venue": "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    "badge": "LREC-COLING 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2403.15512"
+      }
+    ]
+  },
+  {
+    "title": "Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning",
+    "authors": "Juhwan Choi, YoungBin Kim",
+    "venue": "The Twelfth International Conference on Learning Representations (ICLR 2024) Tiny Papers track (oral)",
+    "badge": "ICLR 2024 Tiny Papers",
+    "type": "workshop",
+    "year": 2024,
+    "tags": [
+      "Oral"
+    ],
+    "links": []
+  },
+  {
+    "title": "Adverb Is the Key: Simple Text Data Augmentation with Adverb Deletion",
+    "authors": "Juhwan Choi, YoungBin Kim",
+    "venue": "The Twelfth International Conference on Learning Representations (ICLR 2024) Tiny Papers track (poster)",
+    "badge": "ICLR 2024 Tiny Papers",
+    "type": "workshop",
+    "year": 2024,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "GPTs Are Multilingual Annotators for Sequence Generation Tasks",
+    "authors": "Juhwan Choi, Eunju Lee, Kyohoon Jin, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EACL 2024",
+    "badge": "EACL 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [
+      "Findings"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.findings-eacl.2/"
+      }
+    ]
+  },
+  {
+    "title": "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes",
+    "authors": "Juhwan Choi, Kyohoon Jin, Junho Lee, Sangmin Song, YoungBin Kim",
+    "venue": "18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024) Student Research Workshop",
+    "badge": "EACL 2024 SRW",
+    "type": "workshop",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.eacl-srw.1/"
+      }
+    ]
+  },
+  {
+    "title": "See, caption, cluster: Large-scale image analysis using captioning and topic modeling",
+    "authors": "KyeongPil Kang, Kyohoon Jin, Soojin Jang, Jaegul Choo, Youngbin Kim",
+    "venue": "Expert Systems with Applications, Mar 2024",
+    "badge": "ESWA",
+    "type": "journal",
+    "year": 2024,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation",
+    "authors": "JuneHyoung Kwon, Eunju Lee, Yunsung Cho, YoungBin Kim",
+    "venue": "The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)",
+    "badge": "WACV 2024",
+    "type": "conference",
+    "year": 2024,
+    "tags": [],
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Kwon_Learning_to_Detour_Shortcut_Mitigating_Augmentation_for_Weakly_Supervised_Semantic_WACV_2024_paper.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification",
+    "authors": "Jungmin Yun, Mihyeon Kim, Youngbin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    "badge": "EMNLP 2023",
+    "type": "conference",
+    "year": 2023,
+    "tags": [
+      "Findings"
+    ],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2023.findings-emnlp.909/"
+      }
+    ]
+  },
+  {
+    "title": "Enhancing Noisy Label Facial Expression Recognition with Split and Merge Consistency Regularization",
+    "authors": "JiHyun Kim, JuneHyoung Kwon, MiHyeon Kim, EunJu Lee, YoungBin Kim",
+    "venue": "IEEE Access, Dec 2023",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Development of robust detector using the weather deep generative model for outdoor monitoring system",
+    "authors": "Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, June-Hyoung Kwon, Soo-Jin Jang, YoungBin Kim, Han-Guk Ryu",
+    "venue": "Expert Systems with Applications, Dec 2023",
+    "badge": "ESWA",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains",
+    "authors": "Yunsung Cho, Jungmin Yun, JuneHyoung Kwon, Youngbin Kim",
+    "venue": "IEEE Access, Oct 2023",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Soccer’s AI transformation: deep learning’s analysis of soccer’s pandemic research evolution",
+    "authors": "Jea Woog Lee, Sangmin Song, YoungBin Kim, Seung-Bo Park, Doug Hyun Han",
+    "venue": "Frontiers in Psychology, Oct 2023",
+    "badge": "Front. Psychol.",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "SAM: cross-modal semantic alignments module for image-text retrieval",
+    "authors": "Pilseo Park, Soojin Jang, Yunsung Cho, Youngbin Kim",
+    "venue": "Multimedia Tools and Applications, Jun 2023",
+    "badge": "MTAP",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels",
+    "authors": "Juhwan Choi, Kyohoon Jin, Junho Lee, Sangmin Song, YoungBin Kim",
+    "venue": "Tiny Papers @ ICLR 2023 (Oral), May 2023",
+    "badge": "ICLR 2023 Tiny Papers",
+    "type": "workshop",
+    "year": 2023,
+    "tags": [
+      "Oral"
+    ],
+    "links": []
+  },
+  {
+    "title": "Towards Robust Feature Learning with t-vFM Similarity for Continual Learning",
+    "authors": "Bilan Gao, YoungBin Kim",
+    "venue": "Tiny Papers @ ICLR 2023, May 2023",
+    "badge": "ICLR 2023 Tiny Papers",
+    "type": "workshop",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Weakly supervised semantic segmentation via Graph RecalibratiOn with Scaling Weight uNit",
+    "authors": "Soojin Jang, JuneHyoung Kwon, KyoHoon Jin, YoungBin Kim",
+    "venue": "Engineering Applications of Artificial Intelligence, Mar 2023",
+    "badge": "EAAI",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Hybrid Information Mixing Module for Stock Movement Prediction",
+    "authors": "Jooweon Choi, Shiyong Yoo, Xiao Zhou, Youngbin Kim",
+    "venue": "IEEE Access, Mar 2023",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Game effect sprite generation with minimal data via conditional GAN",
+    "authors": "JaeWon Kim, KyoHoon Jin, SooJin Jang, ShinJin Kang, YoungBin Kim",
+    "venue": "Expert Systems with Applications, Jan 2023",
+    "badge": "ESWA",
+    "type": "journal",
+    "year": 2023,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "LDA-based topic modeling for COVID-19-related sports research trends",
+    "authors": "Jea Woog Lee, YoungBin Kim, Doug Hyun Han",
+    "venue": "Frontiers in Psychology, Nov 2022",
+    "badge": "Front. Psychol.",
+    "type": "journal",
+    "year": 2022,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Efficient Learning Representation of Noise-Reduced Foam Effects with Convolutional Denoising Networks",
+    "authors": "Jong-Hyun Kim, YoungBin Kim",
+    "venue": "PLOS ONE, Oct 2022",
+    "badge": "PLOS ONE",
+    "type": "journal",
+    "year": 2022,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information",
+    "authors": "Junhyeok An, Soojin Jang, Junehyoung Kwon, Kyohoon Jin, YoungBin Kim",
+    "venue": "PLOS ONE, Oct 2022",
+    "badge": "PLOS ONE",
+    "type": "journal",
+    "year": 2022,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Application of One-Stage Instance Segmentation with Weather Conditions in Surveillance Cameras at Construction Sites",
+    "authors": "Kyung-Su Kang, Young-Woon Cho, Kyo-Hoon Jin, Young-Bin Kim, Han-Guk Ryu",
+    "venue": "Automation in Construction, Jan 2022",
+    "badge": "Autom. Constr.",
+    "type": "journal",
+    "year": 2022,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting",
+    "authors": "KyoHoon Jin, JeongA Wi, EunJu Lee, ShinJin Kang, SooKyun Kim, YoungBin Kim",
+    "venue": "Expert Systems with Applications, Dec 2021",
+    "badge": "ESWA",
+    "type": "journal",
+    "year": 2021,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Automatic Chinese Meme Generation Using Deep Neural Networks",
+    "authors": "Lin Wang, Qimeng Zhang, Youngbin Kim, Ruizheng Wu, Hongyu Jin, Haoke Deng, Pengchu Luo, Chang-Hun Kim",
+    "venue": "IEEE Access, Nov 2021",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2021,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation",
+    "authors": "Kyeongpil Kang, Kyohoon Jin, Soyoung Yang, Soojin Jang, Jaegul Choo, YoungBin Kim",
+    "venue": "NAACL 2021",
+    "badge": "NAACL 2021",
+    "type": "conference",
+    "year": 2021,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Learning Representation of Secondary Effects for Fire-Flake Animation",
+    "authors": "Myungjin Choi, Jeong A Wi, Taehyeong Kim, Youngbin Kim, Chang-Hun Kim",
+    "venue": "IEEE Access, Jan 2021",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2021,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Whose Opinion Matters? Analyzing Relationships between Bitcoin Prices and User Groups in Online Community",
+    "authors": "Kyeongpil Kang, Jaegul Choo, YoungBin Kim",
+    "venue": "Social Science Computer Review, Dec 2020",
+    "badge": "SSCR",
+    "type": "journal",
+    "year": 2020,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Poster-based Multiple Movie Genre Classification Using Inter-Channel Features",
+    "authors": "Jeong A Wi, Soojin Jang, YoungBin Kim",
+    "venue": "IEEE Access, Apr 2020",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2020,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning",
+    "authors": "Yuchul Shin, Jaewon Kim, Kyohoon Jin, YoungBin Kim",
+    "venue": "IEEE Access, Mar 2020",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2020,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Regional Patch-Based Feature Interpolation Method for Effective Regularization",
+    "authors": "SooJin Jang, KyoHoon Jin, JunHyeok An, YoungBin Kim",
+    "venue": "IEEE Access, Feb 2020",
+    "badge": "IEEE Access",
+    "type": "journal",
+    "year": 2020,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "A Visual-Physiology Multimodal System for Detecting Outlier Behavior of Participants in a Reality TV Show",
+    "authors": "ShinJin Kang, DongGyun Kim, YoungBin Kim",
+    "venue": "International Journal of Distributed Sensor Networks, Jul 2019",
+    "badge": "IJDSN",
+    "type": "journal",
+    "year": 2019,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Layout Placement Optimization Methods Using Repeated User Interface Sequence Patterns for Client Applications",
+    "authors": "Jihye Chung, Seongjin Hong, Youngbin Kim, ShinJin Kang, Changhun Kim",
+    "venue": "Information Visualization, Feb 2019",
+    "badge": "Inf. Vis.",
+    "type": "journal",
+    "year": 2019,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records",
+    "authors": "Bum Chul Kwon, Min-Je Choi, Joanne Taery Kim, Edward Choi, Young Bin Kim, Soonwook Kwon, Jimeng Sun, Jaegul Choo",
+    "venue": "IEEE Trans. on Visualization and Computer Graphics, 2019 (Proc. IEEE Vis'18)",
+    "badge": "IEEE TVCG",
+    "type": "journal",
+    "year": 2019,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Robust handling of clumping and stiffness in wet hair animation",
+    "authors": "Jong-Hyun Kim, Wook Kim, Young Bin Kim, Jaeho Im, Jung Lee, Sun-Jeong Kim",
+    "venue": "Computer Animation and Virtual Worlds, Nov 2017",
+    "badge": "CAVW",
+    "type": "journal",
+    "year": 2017,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Visual simulation of fire-flakes synchronized with flame",
+    "authors": "TaeHyeong Kim, Eunki Hong, Jaeho Im, Dohyeon Yang, Young Bin Kim, Chang-Hun Kim",
+    "venue": "Visual Computer, May 2017",
+    "badge": "Vis. Comput.",
+    "type": "journal",
+    "year": 2017,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://link.springer.com/article/10.1007/s00371-017-1374-9"
+      }
+    ]
+  },
+  {
+    "title": "When Bitcoin encounters information in an online forum: Using text mining to analyse user opinion and predict value fluctuation",
+    "authors": "Young Bin Kim, Jurim Lee, Nuri Park, Jaegul Choo, Jong-Hyun Kim, Chang Hun Kim",
+    "venue": "PLOS ONE, May 2017",
+    "badge": "PLOS ONE",
+    "type": "journal",
+    "year": 2017,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Visual simulation of rapidly freezing water based on crystallization",
+    "authors": "Jaeho Im, Jong-Hyun Kim, Wook Kim, Nuri Park, Taehyeong Kim, Young Bin Kim, Jung Lee, Chang-Hun Kim",
+    "venue": "Computer Animation and Virtual Worlds, March 2017",
+    "badge": "CAVW",
+    "type": "journal",
+    "year": 2017,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://onlinelibrary.wiley.com/doi/10.1002/cav.1767/abstract"
+      }
+    ]
+  },
+  {
+    "title": "Predicting virtual world user population fluctuations with deep learning",
+    "authors": "Young Bin Kim, Nuri Park, Qimeng Zhang, Jun Gi Kim, Shin Jin Kang, Chang Hun Kim",
+    "venue": "PLOS ONE, Dec 2016",
+    "badge": "PLOS ONE",
+    "type": "journal",
+    "year": 2016,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Predicting fluctuations in cryptocurrency transactions based on user comments and replies",
+    "authors": "Young Bin Kim, Jun Gi Kim, Wook Kim, Jae Ho Im, Tae Hyeong Kim, Shin Jin Kang, Chang Hun Kim",
+    "venue": "PLOS ONE, Aug 2016",
+    "badge": "PLOS ONE",
+    "type": "journal",
+    "year": 2016,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Efficiently detecting outlying behavior in video-game players",
+    "authors": "Young Bin Kim, Shin Jin Kang, Sang Hyeok Lee, Jang Young Jung, Hyeong Ryeol Kam, Jung Lee, Young Sun Kim, Joonsoo Lee, Chang Hun Kim",
+    "venue": "PeerJ, Dec 2015",
+    "badge": "PeerJ",
+    "type": "journal",
+    "year": 2015,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://peerj.com/articles/1502/"
+      }
+    ]
+  },
+  {
+    "title": "Virtual world currency value fluctuation prediction system based on user sentiment analysis",
+    "authors": "Young Bin Kim, Sang Hyeok Lee, Shin Jin Kang, Myung Jin Choi, Jung Lee, Chang Hun Kim",
+    "venue": "PLOS ONE, Aug 2015",
+    "badge": "PLOS ONE",
+    "type": "journal",
+    "year": 2015,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Analyzing repetitive action in game based on sequence pattern matching",
+    "authors": "Shin Jin Kang, Young Bin Kim, Soo Kyun Kim",
+    "venue": "Journal of Real-Time Image Processing, Sep 2014",
+    "badge": "JRTIP",
+    "type": "journal",
+    "year": 2014,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://link.springer.com/article/10.1007/s11554-013-0347-0"
+      }
+    ]
+  },
+  {
+    "title": "Automatic player behavior analysis system using trajectory data in a massive multiplayer online game",
+    "authors": "Shin Jin Kang, Young Bin Kim, Taejung Park, Chang-Hun Kim",
+    "venue": "Multimedia Tools and Applications, Oct 2013",
+    "badge": "MTAP",
+    "type": "journal",
+    "year": 2013,
+    "tags": [],
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://link.springer.com/article/10.1007/s11042-012-1052-x"
+      }
+    ]
+  }
+]
