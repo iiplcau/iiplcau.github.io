@@ -1,0 +1,177 @@
+[
+  {
+    "title": "서울시 지역혁신중심 대학지원체계(RISE) 사업(창조산업 인재양성)",
+    "funder": "교육부",
+    "period": "2025~2029",
+    "role": "연구책임자",
+    "status": "ongoing"
+  },
+  {
+    "title": "Neural Journalism++: 논리·윤리·공정성 강화 언어 모델 기반 지능형 저널리즘 연구",
+    "funder": "한국연구재단 중견연구",
+    "period": "2025~2028",
+    "role": "연구책임자",
+    "status": "ongoing"
+  },
+  {
+    "title": "기초문해력 향상을 위한 몰입형 AI 학습지원시스템 개발 및 적용",
+    "funder": "한국연구재단 글로벌인문사회융합연구지원사업",
+    "period": "2024~",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "메타버스 융합대학원",
+    "funder": "과학기술정보통신부 메타버스 융합대학원",
+    "period": "2024~",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "AI대학원지원사업",
+    "funder": "과학기술정보통신부 인공지능핵심인재양성사업",
+    "period": "2021~2031",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "인공지능-콘텐츠 미래산업 교육연구단",
+    "funder": "교육부 4단계 BK21 사업",
+    "period": "2020~2027",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성 센터",
+    "funder": "과학기술정보통신부 시스템반도체융합전문인력육성사업",
+    "period": "2021~2026",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "생성형 AI 및 클라우드 기반 콘텐츠 제작 R&D 인재 양성",
+    "funder": "문화체육관광부 문화기술연구개발지원사업",
+    "period": "2024~",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "군 특화 AI 교육과정 개설 운영",
+    "funder": "국방부본부 국방ICT융합사업",
+    "period": "2022~",
+    "role": "공동연구원",
+    "status": "ongoing"
+  },
+  {
+    "title": "MRC 기반 카드사 혜택 정보 제공 콜봇 개발",
+    "funder": "중소벤처기업부 창업성장기술개발사업",
+    "period": "2024~2025",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "Neural Journalism: 빅데이터와 딥러닝 기반 차세대 저널리즘 연구",
+    "funder": "한국연구재단 우수신진연구",
+    "period": "2022~2025",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "RAG 기반의 AI 대화형 질의응답 시스템",
+    "funder": "산업체 연구용역 과제",
+    "period": "2024",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "버추얼 프로덕션 기반 메타버스 콘텐츠 R&D 전문인력 양성",
+    "funder": "문화체육관광부 문화기술선도대학원",
+    "period": "2021~2024",
+    "role": "공동연구원",
+    "status": "completed"
+  },
+  {
+    "title": "소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발",
+    "funder": "문화체육관광부 문화기술연구개발지원사업",
+    "period": "2020~2024",
+    "role": "공동연구원",
+    "status": "completed"
+  },
+  {
+    "title": "딥러닝 기반의 외과수술 환자 예후 관리 플랫폼 개발",
+    "funder": "중소벤처기업부 디딤돌과제",
+    "period": "2021~2022",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "건설 현장 위험 상태 판단 데이터",
+    "funder": "과학기술정보통신부 인공지능학습용데이터구축사업",
+    "period": "2022",
+    "role": "공동연구원",
+    "status": "completed"
+  },
+  {
+    "title": "KAIH: 한국 고문서 복원 및 번역을 위한 딥러닝 기반 통합 시스템 구축",
+    "funder": "한국연구재단 기본연구",
+    "period": "2021~2022",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "성형 수술 예후 유사 환자 효율적 검색 알고리즘 개발",
+    "funder": "한국연구재단, 산학공동기술개발과제",
+    "period": "2021",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "광학 위성 영상 Labeling dataset 구축",
+    "funder": "한국항공우주연구원",
+    "period": "2021",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "전시 관람객 예측 플랫폼",
+    "funder": "서울산업진흥원 테스트베드 서울 실증지원 사업",
+    "period": "2020~2021",
+    "role": "공동연구원",
+    "status": "completed"
+  },
+  {
+    "title": "주행 환경 정적 객체 인지 AI데이터",
+    "funder": "한국지능정보사회진흥원 인공지능학습용데이터구축사업",
+    "period": "2020~2021",
+    "role": "공동연구원",
+    "status": "completed"
+  },
+  {
+    "title": "MediFlow: 기계학습 기반 의료 빅데이터 분석 연구",
+    "funder": "한국연구재단 생애첫연구",
+    "period": "2018~2021",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "글로벌 창의콘텐츠 전문인력 양성 사업단",
+    "funder": "교육부 BK21+",
+    "period": "2018~2020",
+    "role": "공동연구원",
+    "status": "completed"
+  },
+  {
+    "title": "인공지능 딥러닝 기반 방송용 음성 합성 시스템 개발",
+    "funder": "서울산업진흥원 서울시산학연협력사업",
+    "period": "2019~2020",
+    "role": "연구책임자",
+    "status": "completed"
+  },
+  {
+    "title": "인공지능형 심리상태 자가검사 관리 서비스 플랫폼 개발",
+    "funder": "중소벤처기업부 창업성장기술개발사업",
+    "period": "2019~2020",
+    "role": "연구책임자",
+    "status": "completed"
+  }
+]

@@ -17,7 +17,12 @@
     "type": "workshop",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=6UnVrW6fYq"
+      }
+    ]
   },
   {
     "title": "Beyond Safe Answers: Segment-Aware Listwise Alignment for Reasoning Safety in Large Reasoning Models",
@@ -27,7 +32,12 @@
     "type": "conference",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.15517"
+      }
+    ]
   },
   {
     "title": "ALTSTEER: Selective Safety Steering for Moving Beyond Hard Refusals to Constructive Alternatives",
@@ -37,7 +47,12 @@
     "type": "conference",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.30197"
+      }
+    ]
   },
   {
     "title": "Don't Count the Edits, Judge by the Outcome Alone: Reward-Based Evaluation for Grammatical Error Correction",
@@ -49,7 +64,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.15559"
+      }
+    ]
   },
   {
     "title": "Look Before You Leap: Factual Decoding with Internal Attribution Signals",
@@ -61,7 +81,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.15745"
+      }
+    ]
   },
   {
     "title": "Detecting and Guiding LLM-Generated Korean Poetry with Interpretable Form-level Features",
@@ -73,7 +98,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.28986"
+      }
+    ]
   },
   {
     "title": "Align, Don't Fuse: Structure-Preserving Alignment of Collaborative and Semantic Signals for LLM-Enhanced Recommendation",
@@ -97,7 +127,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.29589"
+      }
+    ]
   },
   {
     "title": "RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models",
@@ -121,7 +156,12 @@
     "tags": [
       "Short"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.07050"
+      }
+    ]
   },
   {
     "title": "IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering",
@@ -131,7 +171,12 @@
     "type": "conference",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.acl-long.1559/"
+      }
+    ]
   },
   {
     "title": "FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation",
@@ -158,7 +203,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.findings-acl.1701/"
+      }
+    ]
   },
   {
     "title": "Aligning with Your Own Voice: Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs",
@@ -170,7 +220,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.findings-acl.1784/"
+      }
+    ]
   },
   {
     "title": "HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning",
@@ -210,7 +265,12 @@
     "type": "conference",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.lrec-1.727/"
+      }
+    ]
   },
   {
     "title": "VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought",
@@ -222,7 +282,12 @@
     "tags": [
       "Oral"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.lrec-1.867/"
+      }
+    ]
   },
   {
     "title": "CRiT-QA: Evaluating Multi-hop Reasoning with Counterfactual Chains and Distractor Traps",
@@ -240,7 +305,7 @@
     ]
   },
   {
-    "title": "How Should We Responsibly Adopt LLMs in the Peer Review Process?",
+    "title": "Position Paper: How Should We Responsibly Adopt LLMs in the Peer Review Process?",
     "authors": "Juhwan Choi, JungMin Yun, Changhun Kim, YoungBin Kim",
     "venue": "Findings of the Association for Computational Linguistics: EACL 2026",
     "badge": "EACL 2026",
@@ -249,7 +314,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.findings-eacl.9/"
+      }
+    ]
   },
   {
     "title": "Easy to Learn, yet Hard to Forget: Towards Robust Unlearning under Bias",
@@ -259,7 +329,12 @@
     "type": "conference",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/37499"
+      }
+    ]
   },
   {
     "title": "RefLens: End-to-End Evidence-Grounded Citation Verification with LLM Agents",
@@ -271,7 +346,12 @@
     "tags": [
       "Demo"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42361"
+      }
+    ]
   },
   {
     "title": "Position on LLM-Assisted Peer Review: Addressing Reviewer Gap through Mentoring and Feedback",
@@ -281,7 +361,12 @@
     "type": "workshop",
     "year": 2026,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2601.09182"
+      }
+    ]
   },
   {
     "title": "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples",
@@ -291,7 +376,12 @@
     "type": "conference",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.emnlp-main.520/"
+      }
+    ]
   },
   {
     "title": "LLM Agents at the Roundtable: A Multi-Perspective and Dialectical Reasoning Framework for Essay Scoring",
@@ -303,7 +393,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.findings-emnlp.1072/"
+      }
+    ]
   },
   {
     "title": "Beyond Single-User Dialogue: Assessing Multi-User Dialogue State Tracking Capabilities of Large Language Models",
@@ -315,7 +410,12 @@
     "tags": [
       "Findings"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.findings-emnlp.1090/"
+      }
+    ]
   },
   {
     "title": "From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse",
@@ -342,7 +442,12 @@
     "type": "conference",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://dl.acm.org/doi/10.1145/3746252.3760968"
+      }
+    ]
   },
   {
     "title": "VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks",
@@ -352,7 +457,12 @@
     "type": "workshop",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openaccess.thecvf.com/content/ICCV2025W/CDEL/html/Choi_VolDoGer_LLM-assisted_Datasets_for_Domain_Generalization_in_Vision-Language_Tasks_ICCVW_2025_paper.html"
+      }
+    ]
   },
   {
     "title": "Medal Matters: Probing LLMs’ Failure Cases Through Olympic Rankings",
@@ -362,7 +472,12 @@
     "type": "workshop",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2409.06518"
+      }
+    ]
   },
   {
     "title": "XTag-CLIP: Robust and Reliable Thyroid Scar Analysis with Limited Data via Cross-Attention",
@@ -372,7 +487,12 @@
     "type": "workshop",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-09569-5_15"
+      }
+    ]
   },
   {
     "title": "Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models",
@@ -397,7 +517,12 @@
     "type": "conference",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.acl-long.271/"
+      }
+    ]
   },
   {
     "title": "Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset",
@@ -424,7 +549,12 @@
     "tags": [
       "Oral"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.naacl-long.222/"
+      }
+    ]
   },
   {
     "title": "Hypergraph Temporal Multi-behavior Recommendation",
@@ -434,11 +564,16 @@
     "type": "journal",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.engappai.2025.110112"
+      }
+    ]
   },
   {
     "title": "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System",
-    "authors": "JungMin Yun, Juhwan Choi, Kyohoon Jin, Soojin Jang, YoungBin Kim",
+    "authors": "JungMin Yun, Juhwan Choi, Kyohoon Jin, Soojin Jang, Jinhee Jang, YoungBin Kim",
     "venue": "39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Demo Track)",
     "badge": "AAAI 2025",
     "type": "conference",
@@ -446,7 +581,12 @@
     "tags": [
       "Demo"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35380"
+      }
+    ]
   },
   {
     "title": "Rank-O-ToM: Unlocking Emotional Nuance Ranking to Enhance Affective Theory-of-Mind",
@@ -458,7 +598,12 @@
     "tags": [
       "Spotlight"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2503.16461"
+      }
+    ]
   },
   {
     "title": "Enhancing Domain Generalization Performance in Low-Resource Setting via External Dataset and Pseudo Labeling with Sentence-BERT",
@@ -468,7 +613,12 @@
     "type": "journal",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/access.2025.3540090"
+      }
+    ]
   },
   {
     "title": "Korean football in-game conversation state tracking dataset for dialogue and turn level evaluation",
@@ -478,7 +628,12 @@
     "type": "journal",
     "year": 2025,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.engappai.2024.109572"
+      }
+    ]
   },
   {
     "title": "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames",
@@ -488,7 +643,12 @@
     "type": "journal",
     "year": 2024,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ACCESS.2024.3505612"
+      }
+    ]
   },
   {
     "title": "UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation",
@@ -577,6 +737,10 @@
     "tags": [],
     "links": [
       {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2024.lrec-main.525/"
+      },
+      {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2403.15512"
       }
@@ -592,7 +756,12 @@
     "tags": [
       "Oral"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=mTF4OcDnSP"
+      }
+    ]
   },
   {
     "title": "Adverb Is the Key: Simple Text Data Augmentation with Adverb Deletion",
@@ -602,7 +771,12 @@
     "type": "workshop",
     "year": 2024,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=bNxB3Yd3Pd"
+      }
+    ]
   },
   {
     "title": "GPTs Are Multilingual Annotators for Sequence Generation Tasks",
@@ -644,7 +818,12 @@
     "type": "journal",
     "year": 2024,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.eswa.2023.121391"
+      }
+    ]
   },
   {
     "title": "Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation",
@@ -686,7 +865,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/access.2023.3339763"
+      }
+    ]
   },
   {
     "title": "Development of robust detector using the weather deep generative model for outdoor monitoring system",
@@ -696,7 +880,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.eswa.2023.120984"
+      }
+    ]
   },
   {
     "title": "Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains",
@@ -706,7 +895,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/access.2023.3324545"
+      }
+    ]
   },
   {
     "title": "Soccer’s AI transformation: deep learning’s analysis of soccer’s pandemic research evolution",
@@ -716,7 +910,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.3389/fpsyg.2023.1244404"
+      }
+    ]
   },
   {
     "title": "SAM: cross-modal semantic alignments module for image-text retrieval",
@@ -726,7 +925,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1007/s11042-023-15798-9"
+      }
+    ]
   },
   {
     "title": "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels",
@@ -738,7 +942,12 @@
     "tags": [
       "Oral"
     ],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=OiSbJbVWBJT"
+      }
+    ]
   },
   {
     "title": "Towards Robust Feature Learning with t-vFM Similarity for Continual Learning",
@@ -748,7 +957,12 @@
     "type": "workshop",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2306.02335"
+      }
+    ]
   },
   {
     "title": "Weakly supervised semantic segmentation via Graph RecalibratiOn with Scaling Weight uNit",
@@ -758,7 +972,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.engappai.2022.105706"
+      }
+    ]
   },
   {
     "title": "Hybrid Information Mixing Module for Stock Movement Prediction",
@@ -768,7 +987,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/access.2023.3258695"
+      }
+    ]
   },
   {
     "title": "Game effect sprite generation with minimal data via conditional GAN",
@@ -778,7 +1002,12 @@
     "type": "journal",
     "year": 2023,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.eswa.2022.118491"
+      }
+    ]
   },
   {
     "title": "LDA-based topic modeling for COVID-19-related sports research trends",
@@ -788,7 +1017,12 @@
     "type": "journal",
     "year": 2022,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.3389/fpsyg.2022.1033872"
+      }
+    ]
   },
   {
     "title": "Efficient Learning Representation of Noise-Reduced Foam Effects with Convolutional Denoising Networks",
@@ -798,7 +1032,12 @@
     "type": "journal",
     "year": 2022,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1371/journal.pone.0275117"
+      }
+    ]
   },
   {
     "title": "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information",
@@ -808,7 +1047,12 @@
     "type": "journal",
     "year": 2022,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1371/journal.pone.0274767"
+      }
+    ]
   },
   {
     "title": "Application of One-Stage Instance Segmentation with Weather Conditions in Surveillance Cameras at Construction Sites",
@@ -818,7 +1062,12 @@
     "type": "journal",
     "year": 2022,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.autcon.2021.104034"
+      }
+    ]
   },
   {
     "title": "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting",
@@ -828,7 +1077,12 @@
     "type": "journal",
     "year": 2021,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1016/j.eswa.2021.115738"
+      }
+    ]
   },
   {
     "title": "Automatic Chinese Meme Generation Using Deep Neural Networks",
@@ -838,7 +1092,12 @@
     "type": "journal",
     "year": 2021,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ACCESS.2021.3127324"
+      }
+    ]
   },
   {
     "title": "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation",
@@ -848,7 +1107,12 @@
     "type": "conference",
     "year": 2021,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2021.naacl-main.317/"
+      }
+    ]
   },
   {
     "title": "Learning Representation of Secondary Effects for Fire-Flake Animation",
@@ -858,7 +1122,12 @@
     "type": "journal",
     "year": 2021,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ACCESS.2021.3054061"
+      }
+    ]
   },
   {
     "title": "Whose Opinion Matters? Analyzing Relationships between Bitcoin Prices and User Groups in Online Community",
@@ -868,7 +1137,12 @@
     "type": "journal",
     "year": 2020,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1177/0894439319840716"
+      }
+    ]
   },
   {
     "title": "Poster-based Multiple Movie Genre Classification Using Inter-Channel Features",
@@ -878,7 +1152,12 @@
     "type": "journal",
     "year": 2020,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ACCESS.2020.2986055"
+      }
+    ]
   },
   {
     "title": "Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning",
@@ -888,7 +1167,12 @@
     "type": "journal",
     "year": 2020,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ACCESS.2020.2980380"
+      }
+    ]
   },
   {
     "title": "Regional Patch-Based Feature Interpolation Method for Effective Regularization",
@@ -898,7 +1182,12 @@
     "type": "journal",
     "year": 2020,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/ACCESS.2020.2974328"
+      }
+    ]
   },
   {
     "title": "A Visual-Physiology Multimodal System for Detecting Outlier Behavior of Participants in a Reality TV Show",
@@ -908,7 +1197,12 @@
     "type": "journal",
     "year": 2019,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1177/1550147719864886"
+      }
+    ]
   },
   {
     "title": "Layout Placement Optimization Methods Using Repeated User Interface Sequence Patterns for Client Applications",
@@ -918,7 +1212,12 @@
     "type": "journal",
     "year": 2019,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1177/1473871618825334"
+      }
+    ]
   },
   {
     "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records",
@@ -928,7 +1227,12 @@
     "type": "journal",
     "year": 2019,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865027"
+      }
+    ]
   },
   {
     "title": "Robust handling of clumping and stiffness in wet hair animation",
@@ -938,7 +1242,12 @@
     "type": "journal",
     "year": 2017,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1002/cav.1796"
+      }
+    ]
   },
   {
     "title": "Visual simulation of fire-flakes synchronized with flame",
@@ -956,14 +1265,19 @@
     ]
   },
   {
-    "title": "When Bitcoin encounters information in an online forum: Using text mining to analyse user opinion and predict value fluctuation",
+    "title": "When Bitcoin encounters information in an online forum: Using text mining to analyse user opinions and predict value fluctuation",
     "authors": "Young Bin Kim, Jurim Lee, Nuri Park, Jaegul Choo, Jong-Hyun Kim, Chang Hun Kim",
     "venue": "PLOS ONE, May 2017",
     "badge": "PLOS ONE",
     "type": "journal",
     "year": 2017,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1371/journal.pone.0177630"
+      }
+    ]
   },
   {
     "title": "Visual simulation of rapidly freezing water based on crystallization",
@@ -988,7 +1302,12 @@
     "type": "journal",
     "year": 2016,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1371/journal.pone.0167153"
+      }
+    ]
   },
   {
     "title": "Predicting fluctuations in cryptocurrency transactions based on user comments and replies",
@@ -998,7 +1317,12 @@
     "type": "journal",
     "year": 2016,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1371/journal.pone.0161197"
+      }
+    ]
   },
   {
     "title": "Efficiently detecting outlying behavior in video-game players",
@@ -1023,7 +1347,12 @@
     "type": "journal",
     "year": 2015,
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1371/journal.pone.0132944"
+      }
+    ]
   },
   {
     "title": "Analyzing repetitive action in game based on sequence pattern matching",

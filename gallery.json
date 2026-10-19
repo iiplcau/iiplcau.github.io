@@ -1,0 +1,942 @@
+[
+ {
+  "date": "2025.11",
+  "title": "CIKM 2025",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-11-cikm-1.jpg",
+    "w": 702,
+    "h": 702
+   },
+   {
+    "src": "gallery/2025-11-cikm-2.jpg",
+    "w": 700,
+    "h": 702
+   }
+  ]
+ },
+ {
+  "date": "2025.11",
+  "title": "EMNLP 2025",
+  "place": "Suzhou, China",
+  "photos": [
+   {
+    "src": "gallery/2025-11-emnlp-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-11-emnlp-2.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-11-emnlp-3.jpg",
+    "w": 700,
+    "h": 938
+   },
+   {
+    "src": "gallery/2025-11-emnlp-4.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2025.10",
+  "title": "ACM Multimedia 2025",
+  "place": "Dublin, Ireland",
+  "photos": [
+   {
+    "src": "gallery/2025-10-acmmm-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-10-acmmm-2.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-10-acmmm-3.jpg",
+    "w": 700,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2025.10",
+  "title": "ICCV 2025",
+  "place": "Honolulu, Hawaii",
+  "photos": [
+   {
+    "src": "gallery/2025-10-iccv-1.jpg",
+    "w": 702,
+    "h": 702
+   },
+   {
+    "src": "gallery/2025-10-iccv-2.jpg",
+    "w": 1084,
+    "h": 702
+   }
+  ]
+ },
+ {
+  "date": "2025.10",
+  "title": "COLM 2025",
+  "place": "Montreal, Canada",
+  "photos": [
+   {
+    "src": "gallery/2025-10-colm-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-10-colm-2.jpg",
+    "w": 700,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2025.10",
+  "title": "HCLT 2025",
+  "place": "Daejeon, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-10-hclt-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-10-hclt-2.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-10-hclt-3.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-10-hclt-4.jpg",
+    "w": 700,
+    "h": 650
+   }
+  ]
+ },
+ {
+  "date": "2025.09",
+  "title": "MICCAI 2025",
+  "place": "Daejeon, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-09-miccai-1.jpg",
+    "w": 702,
+    "h": 588
+   },
+   {
+    "src": "gallery/2025-09-miccai-2.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-09-miccai-3.jpg",
+    "w": 700,
+    "h": 938
+   },
+   {
+    "src": "gallery/2025-09-miccai-4.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2025.09",
+  "title": "2025 인공지능 대학원 심포지엄",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-09-ai-symposium-1.jpg",
+    "w": 894,
+    "h": 619
+   },
+   {
+    "src": "gallery/2025-09-ai-symposium-2.jpg",
+    "w": 894,
+    "h": 670
+   },
+   {
+    "src": "gallery/2025-09-ai-symposium-3.jpg",
+    "w": 894,
+    "h": 619
+   }
+  ]
+ },
+ {
+  "date": "2025.08",
+  "title": "KCCV 2025",
+  "place": "Busan, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-08-kccv-1.jpg",
+    "w": 894,
+    "h": 789
+   }
+  ]
+ },
+ {
+  "date": "2025.07",
+  "title": "ACL 2025",
+  "place": "Vienna, Austria",
+  "photos": [
+   {
+    "src": "gallery/2025-07-acl-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2025-07-acl-2.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2025-07-acl-3.jpg",
+    "w": 894,
+    "h": 1076
+   },
+   {
+    "src": "gallery/2025-07-acl-4.jpg",
+    "w": 894,
+    "h": 788
+   }
+  ]
+ },
+ {
+  "date": "2025.06",
+  "title": "KCC 2025",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-06-kcc-1.jpg",
+    "w": 702,
+    "h": 561
+   },
+   {
+    "src": "gallery/2025-06-kcc-2.jpg",
+    "w": 700,
+    "h": 561
+   },
+   {
+    "src": "gallery/2025-06-kcc-3.jpg",
+    "w": 702,
+    "h": 561
+   }
+  ]
+ },
+ {
+  "date": "2025.06",
+  "title": "Summer Annual Conference of IEIE 2025",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-06-ieie-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-06-ieie-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2025-06-ieie-3.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2025.05",
+  "title": "NAACL 2025",
+  "place": "Albuquerque, New Mexico",
+  "photos": [
+   {
+    "src": "gallery/2025-05-naacl-1.jpg",
+    "w": 702,
+    "h": 393
+   },
+   {
+    "src": "gallery/2025-05-naacl-2.jpg",
+    "w": 702,
+    "h": 524
+   },
+   {
+    "src": "gallery/2025-05-naacl-3.jpg",
+    "w": 700,
+    "h": 975
+   }
+  ]
+ },
+ {
+  "date": "2025.02",
+  "title": "AAAI 2025",
+  "place": "Philadelphia, Pennsylvania",
+  "photos": [
+   {
+    "src": "gallery/2025-02-aaai-1.jpg",
+    "w": 894,
+    "h": 894
+   },
+   {
+    "src": "gallery/2025-02-aaai-2.jpg",
+    "w": 894,
+    "h": 670
+   },
+   {
+    "src": "gallery/2025-02-aaai-3.jpg",
+    "w": 894,
+    "h": 671
+   },
+   {
+    "src": "gallery/2025-02-aaai-4.jpg",
+    "w": 894,
+    "h": 894
+   },
+   {
+    "src": "gallery/2025-02-aaai-5.jpg",
+    "w": 894,
+    "h": 894
+   }
+  ]
+ },
+ {
+  "date": "2025.02",
+  "title": "Graduation Ceremony",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2025-02-graduation-1.jpg",
+    "w": 894,
+    "h": 716
+   },
+   {
+    "src": "gallery/2025-02-graduation-2.jpg",
+    "w": 894,
+    "h": 716
+   }
+  ]
+ },
+ {
+  "date": "2024.11",
+  "title": "EMNLP 2024",
+  "place": "Miami, Florida",
+  "photos": [
+   {
+    "src": "gallery/2024-11-emnlp-1.jpg",
+    "w": 511,
+    "h": 656
+   },
+   {
+    "src": "gallery/2024-11-emnlp-2.jpg",
+    "w": 509,
+    "h": 654
+   },
+   {
+    "src": "gallery/2024-11-emnlp-3.jpg",
+    "w": 511,
+    "h": 466
+   },
+   {
+    "src": "gallery/2024-11-emnlp-4.jpg",
+    "w": 511,
+    "h": 466
+   }
+  ]
+ },
+ {
+  "date": "2024.10",
+  "title": "ECCV 2024",
+  "place": "Milano, Italy",
+  "photos": [
+   {
+    "src": "gallery/2024-10-eccv-1.jpg",
+    "w": 702,
+    "h": 493
+   },
+   {
+    "src": "gallery/2024-10-eccv-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2024-10-eccv-3.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2024.09",
+  "title": "2024 인공지능 대학원 심포지엄",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2024-09-ai-symposium-1.jpg",
+    "w": 702,
+    "h": 466
+   },
+   {
+    "src": "gallery/2024-09-ai-symposium-2.jpg",
+    "w": 700,
+    "h": 466
+   },
+   {
+    "src": "gallery/2024-09-ai-symposium-3.jpg",
+    "w": 702,
+    "h": 466
+   }
+  ]
+ },
+ {
+  "date": "2024.08",
+  "title": "KAIA Summer Conference",
+  "place": "Busan, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2024-08-kaia-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2024-08-kaia-2.jpg",
+    "w": 321,
+    "h": 528
+   },
+   {
+    "src": "gallery/2024-08-kaia-3.jpg",
+    "w": 319,
+    "h": 528
+   }
+  ]
+ },
+ {
+  "date": "2024.08",
+  "title": "ACL 2024",
+  "place": "Bangkok, Thailand",
+  "photos": [
+   {
+    "src": "gallery/2024-08-acl-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2024-08-acl-2.jpg",
+    "w": 511,
+    "h": 526
+   },
+   {
+    "src": "gallery/2024-08-acl-3.jpg",
+    "w": 894,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2024.06",
+  "title": "Summer Annual Conference of IEIE 2024",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2024-06-ieie-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2024-06-ieie-2.jpg",
+    "w": 702,
+    "h": 702
+   },
+   {
+    "src": "gallery/2024-06-ieie-3.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2024-06-ieie-4.jpg",
+    "w": 700,
+    "h": 700
+   },
+   {
+    "src": "gallery/2024-06-ieie-5.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2024.06",
+  "title": "KICS Summer Conference",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2024-06-kics-1.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2024.05",
+  "title": "COLING 2024",
+  "place": "Torino, Italy",
+  "photos": [
+   {
+    "src": "gallery/2024-05-coling-1.jpg",
+    "w": 894,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-05-coling-2.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2024.03",
+  "title": "ICLR 2024",
+  "place": "Vienna, Austria",
+  "photos": [
+   {
+    "src": "gallery/2024-03-iclr-1.jpg",
+    "w": 894,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-03-iclr-2.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2024.03",
+  "title": "EACL 2024",
+  "place": "St.Julians, Malta",
+  "photos": [
+   {
+    "src": "gallery/2024-03-eacl-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-03-eacl-2.jpg",
+    "w": 700,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-03-eacl-3.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2024.02",
+  "title": "연구실 MT",
+  "place": "Fukuoka, Japan",
+  "photos": [
+   {
+    "src": "gallery/2024-02-lab-mt-1.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2024.01",
+  "title": "WACV 2024",
+  "place": "Waikoloa, US",
+  "photos": [
+   {
+    "src": "gallery/2024-01-wacv-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-01-wacv-2.jpg",
+    "w": 700,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-01-wacv-3.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2024.01",
+  "title": "KICS Winter Conference 2024",
+  "place": "Gangwon, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2024-01-kics-1.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2024.01",
+  "title": "IPIU 2024",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2024-01-ipiu-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2024-01-ipiu-2.jpg",
+    "w": 1200,
+    "h": 883
+   }
+  ]
+ },
+ {
+  "date": "2024.01",
+  "title": "CES 2024",
+  "place": "Las Vegas, USA",
+  "photos": [
+   {
+    "src": "gallery/2024-01-ces-1.jpg",
+    "w": 1200,
+    "h": 883
+   },
+   {
+    "src": "gallery/2024-01-ces-2.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2023.12",
+  "title": "EMNLP 2023",
+  "place": "Singapore",
+  "photos": [
+   {
+    "src": "gallery/2023-12-emnlp-1.jpg",
+    "w": 702,
+    "h": 702
+   },
+   {
+    "src": "gallery/2023-12-emnlp-2.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-12-emnlp-3.jpg",
+    "w": 700,
+    "h": 455
+   },
+   {
+    "src": "gallery/2023-12-emnlp-4.jpg",
+    "w": 700,
+    "h": 786
+   },
+   {
+    "src": "gallery/2023-12-emnlp-5.jpg",
+    "w": 707,
+    "h": 840
+   }
+  ]
+ },
+ {
+  "date": "2023.08",
+  "title": "인공지능 대학원 심포지엄",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2023-08-ai-symposium-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2023-08-ai-symposium-2.jpg",
+    "w": 700,
+    "h": 938
+   },
+   {
+    "src": "gallery/2023-08-ai-symposium-3.jpg",
+    "w": 702,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2023.07",
+  "title": "ESSLLI 2023",
+  "place": "Ljubljana, Slovenia",
+  "photos": [
+   {
+    "src": "gallery/2023-07-esslli-1.jpg",
+    "w": 702,
+    "h": 426
+   },
+   {
+    "src": "gallery/2023-07-esslli-2.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-07-esslli-3.jpg",
+    "w": 700,
+    "h": 1008
+   }
+  ]
+ },
+ {
+  "date": "2023.07",
+  "title": "CVPR 2023",
+  "place": "Vancouver, Canada",
+  "photos": [
+   {
+    "src": "gallery/2023-07-cvpr-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2023-07-cvpr-2.jpg",
+    "w": 1200,
+    "h": 883
+   }
+  ]
+ },
+ {
+  "date": "2023.07",
+  "title": "ACL 2023",
+  "place": "Toronto, Canada",
+  "photos": [
+   {
+    "src": "gallery/2023-07-acl-1.jpg",
+    "w": 702,
+    "h": 702
+   },
+   {
+    "src": "gallery/2023-07-acl-2.jpg",
+    "w": 700,
+    "h": 702
+   },
+   {
+    "src": "gallery/2023-07-acl-3.jpg",
+    "w": 702,
+    "h": 557
+   }
+  ]
+ },
+ {
+  "date": "2023.06",
+  "title": "Summer Annual Conference of IEIE 2023",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2023-06-ieie-1.jpg",
+    "w": 702,
+    "h": 466
+   },
+   {
+    "src": "gallery/2023-06-ieie-2.jpg",
+    "w": 700,
+    "h": 466
+   },
+   {
+    "src": "gallery/2023-06-ieie-3.jpg",
+    "w": 702,
+    "h": 466
+   }
+  ]
+ },
+ {
+  "date": "2023.06",
+  "title": "KCC 2023",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2023-06-kcc-1.jpg",
+    "w": 702,
+    "h": 938
+   },
+   {
+    "src": "gallery/2023-06-kcc-2.jpg",
+    "w": 700,
+    "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2023.02",
+  "title": "ICEIC 2023",
+  "place": "Singapore",
+  "photos": [
+   {
+    "src": "gallery/2023-02-iceic-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-02-iceic-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-02-iceic-3.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2023.02",
+  "title": "HCIK 2023",
+  "place": "하이원리조트",
+  "photos": [
+   {
+    "src": "gallery/2023-02-hcik-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-02-hcik-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-02-hcik-3.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2023.01",
+  "title": "CES 2023",
+  "place": "Las Vegas, USA",
+  "photos": [
+   {
+    "src": "gallery/2023-01-ces-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-01-ces-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2023-01-ces-3.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2022.12",
+  "title": "연구실 송년회",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2022-12-lab-yearend-1.jpg",
+    "w": 894,
+    "h": 524
+   }
+  ]
+ },
+ {
+  "date": "2022.08",
+  "title": "ACDL 2022",
+  "place": "Tuscany, Italy",
+  "photos": [
+   {
+    "src": "gallery/2022-08-acdl-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2022-08-acdl-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2022-08-acdl-3.jpg",
+    "w": 702,
+    "h": 526
+   }
+  ]
+ },
+ {
+  "date": "2022.08",
+  "title": "2022 인공지능 대학원 심포지엄",
+  "place": "Seoul, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2022-08-ai-symposium-1.jpg",
+    "w": 702,
+    "h": 395
+   },
+   {
+    "src": "gallery/2022-08-ai-symposium-2.jpg",
+    "w": 700,
+    "h": 395
+   },
+   {
+    "src": "gallery/2022-08-ai-symposium-3.jpg",
+    "w": 702,
+    "h": 399
+   }
+  ]
+ },
+ {
+  "date": "2022.07",
+  "title": "IJCAI 2022",
+  "place": "Vienna, Austria",
+  "photos": [
+   {
+    "src": "gallery/2022-07-ijcai-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2022-07-ijcai-2.jpg",
+    "w": 700,
+    "h": 526
+   },
+   {
+    "src": "gallery/2022-07-ijcai-3.jpg",
+    "w": 702,
+    "h": 528
+   }
+  ]
+ },
+ {
+  "date": "2022.06",
+  "title": "Summer Annual Conference of IEIE 2022",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2022-06-ieie-1.jpg",
+    "w": 702,
+    "h": 526
+   },
+   {
+    "src": "gallery/2022-06-ieie-2.jpg",
+    "w": 700,
+    "h": 526
+   }
+  ]
+ }
+]

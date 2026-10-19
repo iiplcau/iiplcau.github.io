@@ -11,6 +11,8 @@ HTML을 고칠 필요 없이 아래 데이터 파일만 수정하면 됩니다. 
 | `publications.json` | 논문 목록. 위에 있을수록 최신으로 표시됩니다 |
 | `news.json` | 홈 화면의 소식. 위에서 6개가 먼저 보입니다 |
 | `people.json` | 멤버 목록 (그룹별) |
+| `projects.json` | 연구 과제 목록. 홈 화면의 진행 과제 수도 여기서 계산됩니다 |
+| `gallery.json` | Gallery 페이지의 행사별 사진 목록. 사진 파일은 `gallery/` 폴더에 있습니다 |
 
 ### 논문 추가 예시
 
@@ -49,6 +51,35 @@ HTML을 고칠 필요 없이 아래 데이터 파일만 수정하면 됩니다. 
 ```
 
 사진은 정사각형에 가까운 JPG를 저장소에 올리고 `"photo": "photo-gildong-hong.jpg"`처럼 파일 이름을 적으면 됩니다.
+
+### 과제 추가 예시
+
+```json
+{ "title": "과제명", "funder": "한국연구재단 중견연구", "period": "2026~2029", "role": "연구책임자", "status": "ongoing" },
+```
+
+- `role`: `연구책임자` 또는 `공동연구원`
+- `status`: 진행 중이면 `ongoing`, 끝나면 `completed`로 바꾸면 됩니다
+
+### 사진 추가 예시
+
+1. 사진을 가로 1200px 정도의 JPG로 줄여 `gallery/` 폴더에 올립니다 (예: `gallery/2026-11-emnlp-1.jpg`)
+2. `gallery.json` 맨 앞에 행사를 추가합니다
+
+```json
+{
+  "date": "2026.11",
+  "title": "EMNLP 2026",
+  "place": "City, Country",
+  "photos": [
+    { "src": "gallery/2026-11-emnlp-1.jpg", "w": 1200, "h": 900 }
+  ]
+},
+```
+
+`w`, `h`는 사진의 가로, 세로 픽셀 크기입니다. 대략적인 값이어도 괜찮습니다.
+
+GitHub 웹 화면에서는 한 번에 100개까지만 올릴 수 있으니 사진이 많으면 나눠서 올려 주세요.
 
 ## 주의
 

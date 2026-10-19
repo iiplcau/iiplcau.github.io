@@ -255,6 +255,32 @@ h1, h2, h3, p { margin: 0; }
 .notice p { font-size: 16px; color: var(--ink-2); }
 [hidden] { display: none !important; }
 
+/* Projects */
+.proj-results { padding: 12px 0 80px; }
+.ylab .glab { font-family: var(--font); font-size: 24px; font-weight: 700; letter-spacing: -0.01em; }
+.rbadge { display: inline-flex; align-items: center; height: 24px; padding: 0 9px; border-radius: 6px; background: var(--gray-tint); color: var(--gray-ink); font-size: 12px; font-weight: 600; white-space: nowrap; }
+.rbadge.pi { background: var(--accent-tint); color: var(--accent-ink); }
+.pyr { font-family: var(--mono); font-size: 13px; color: var(--muted); white-space: nowrap; }
+
+/* Gallery */
+.ylab.gev { flex: 0 0 220px; gap: 4px; }
+.ylab .gdate { font-family: var(--mono); font-size: 13px; color: var(--accent); }
+.ylab .gtitle { font-family: var(--font); font-size: 20px; line-height: 1.35; font-weight: 700; letter-spacing: -0.01em; }
+.gal-grid { flex: 999 1 560px; min-width: 0; list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }
+.gthumb { display: block; width: 100%; padding: 0; border: none; border-radius: 12px; overflow: hidden; background: #E9EDF3; cursor: zoom-in; }
+.gthumb img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; transition: transform 0.2s ease; }
+.gthumb:hover img { transform: scale(1.03); }
+.lightbox { width: 100vw; height: 100vh; height: 100dvh; max-width: 100vw; max-height: 100vh; max-height: 100dvh; margin: 0; padding: 0; border: none; background: rgba(8, 12, 22, 0.96); color: #FFFFFF; }
+.lightbox[open] { display: flex; flex-direction: column; }
+.lightbox::backdrop { background: rgba(8, 12, 22, 0.96); }
+.lb-stage { flex: 1 1 auto; min-height: 0; display: flex; align-items: center; justify-content: center; padding: 16px; }
+.lb-stage img { max-width: 100%; max-height: calc(100vh - 120px); max-height: calc(100dvh - 120px); width: auto; object-fit: contain; border-radius: 8px; }
+.lb-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; padding: 8px clamp(16px, 4vw, 40px) 20px; }
+.lb-cap { flex: 1 1 240px; font-size: 15px; color: var(--on-navy); }
+.lb-actions { display: flex; gap: 8px; }
+.lb-btn { display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; padding: 0; border: 1px solid #4A5874; border-radius: 999px; background: transparent; color: #FFFFFF; cursor: pointer; }
+.lb-btn:hover { border-color: #FFFFFF; }
+
 @media (max-width: 560px) {
   .section { padding: 64px 0; }
   .hero { padding: 40px 0 56px; }

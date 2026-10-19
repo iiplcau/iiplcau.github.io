@@ -1,4 +1,4 @@
-/* IIPL website scripts. Content lives in publications.json, news.json and people.json. */
+/* IIPL website scripts. Content lives in publications.json, news.json, people.json, projects.json and gallery.json. */
 (function () {
   'use strict';
 
@@ -67,8 +67,14 @@
 
   /* ---------- Home ---------- */
   function initHome() {
-    Promise.all([load('publications.json'), load('news.json'), load('people.json')]).then(function (res) {
-      var pubs = res[0], news = res[1], people = res[2];
+    Promise.all([load('publications.json'), load('news.json'), load('people.json'), load('projects.json')]).then(function (res) {
+      var pubs = res[0], news = res[1], people = res[2], projects = res[3];
+
+      if (Array.isArray(projects)) {
+        var statProjects = document.getElementById('stat-projects');
+        var active = projects.filter(function (p) { return p.status === 'ongoing'; }).length;
+        if (statProjects && active) statProjects.textContent = String(active);
+      }
 
       if (Array.isArray(pubs)) {
         var statPubs = document.getElementById('stat-pubs');
@@ -351,8 +357,193 @@
     });
   }
 
+  /* ---------- Projects ---------- */
+  function initProjects() {
+    load('projects.json').then(function (list) {
+      var box = document.getElementById('proj-groups');
+      if (!Array.isArray(list)) { loadError(box, 'projects.json'); return; }
+
+      var ongoing = list.filter(function (p) { return p.status === 'ongoing'; });
+      var done = list.filter(function (p) { return p.status !== 'ongoing'; });
+      var led = list.filter(function (p) { return p.role === '연구책임자'; }).length;
+      var first = list.reduce(function (m, p) {
+        var y = parseInt(p.period, 10);
+        return y && y < m ? y : m;
+      }, 9999);
+
+      var summary = document.getElementById('proj-summary');
+      if (summary && list.length) {
+        summary.textContent = list.length + ' projects since ' + first + ': ' + ongoing.length + ' ongoing and ' +
+          done.length + ' completed. Prof. Kim is principal investigator on ' + led + ' of them.';
+      }
+
+      box.textContent = '';
+      [['Ongoing', ongoing], ['Completed', done]].forEach(function (g) {
+        if (!g[1].length) return;
+        var ol = el('ol', { className: 'plist' });
+        g[1].forEach(function (p) {
+          ol.appendChild(el('li', { className: 'pub' }, [
+            el('h3', { className: 'pt', lang: 'ko', text: p.title || '' }),
+            el('div', { className: 'pm' }, [
+              el('span', { className: 'rbadge' + (p.role === '연구책임자' ? ' pi' : ''), lang: 'ko', text: p.role || '' }),
+              el('span', { className: 'pyr', text: p.period || '' }),
+              el('span', { className: 'pv', lang: 'ko', text: p.funder || '' })
+            ])
+          ]));
+        });
+        box.appendChild(el('div', { className: 'ygroup' }, [
+          el('div', { className: 'ylab' }, [
+            el('h2', { className: 'glab', text: g[0] }),
+            el('span', { text: g[1].length + (g[1].length === 1 ? ' project' : ' projects') })
+          ]),
+          ol
+        ]));
+      });
+    });
+  }
+
+  /* ---------- Gallery ---------- */
+  var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+  function monthLabel(date) {
+    var m = /^(\d{4})\.(\d{1,2})$/.exec(String(date || ''));
+    return m ? MONTHS[Number(m[2]) - 1] + ' ' + m[1] : String(date || '');
+  }
+
+  function koLang(text) {
+    return /[가-힣]/.test(String(text || '')) ? 'ko' : null;
+  }
+
+  function initGallery() {
+    load('gallery.json').then(function (events) {
+      var box = document.getElementById('gal-events');
+      if (!Array.isArray(events)) { loadError(box, 'gallery.json'); return; }
+
+      var yearOf = function (e) { return String(e.date || '').slice(0, 4); };
+      var years = [];
+      events.forEach(function (e) {
+        var y = yearOf(e);
+        if (y && years.indexOf(y) === -1) years.push(y);
+      });
+      years.sort(function (a, b) { return Number(b) - Number(a); });
+      var photoCount = function (key) {
+        return events.reduce(function (n, e) {
+          return n + (key === 'all' || yearOf(e) === key ? (e.photos || []).length : 0);
+        }, 0);
+      };
+
+      var summary = document.getElementById('gal-summary');
+      if (summary && years.length) {
+        summary.textContent = photoCount('all') + ' photos from ' + events.length +
+          ' conferences, talks, and lab events since ' + years[years.length - 1] + '.';
+      }
+
+      var params = new URLSearchParams(location.search);
+      var state = { year: years.indexOf(params.get('year')) !== -1 ? params.get('year') : 'all' };
+
+      var yearBox = document.getElementById('gal-years');
+      var chipButtons = [];
+      [['all', 'All years']].concat(years.map(function (y) { return [y, y]; })).forEach(function (d) {
+        var btn = el('button', { type: 'button', className: 'chip', 'aria-pressed': 'false' }, [
+          d[1], el('span', { className: 'n', text: String(photoCount(d[0])) })
+        ]);
+        btn.addEventListener('click', function () { state.year = d[0]; draw(); });
+        chipButtons.push({ btn: btn, key: d[0] });
+        yearBox.appendChild(btn);
+      });
+
+      var visible = [];
+      var dialog = document.getElementById('lightbox');
+      var lbImg = document.getElementById('lb-img');
+      var lbCap = document.getElementById('lb-cap');
+      var current = 0;
+      var opener = null;
+
+      function show(i) {
+        if (!visible.length) return;
+        current = (i + visible.length) % visible.length;
+        var v = visible[current];
+        lbImg.src = v.src;
+        lbImg.alt = v.alt;
+        lbCap.textContent = v.caption + ' (' + v.n + '/' + v.of + ')';
+        var next = visible[(current + 1) % visible.length];
+        if (next) { var pre = new Image(); pre.src = next.src; }
+      }
+
+      function openAt(i) {
+        if (!dialog || typeof dialog.showModal !== 'function') { window.open(visible[i].src, '_blank'); return; }
+        opener = visible[i].btn;
+        show(i);
+        dialog.showModal();
+      }
+
+      function draw() {
+        chipButtons.forEach(function (c) { c.btn.setAttribute('aria-pressed', state.year === c.key ? 'true' : 'false'); });
+        box.textContent = '';
+        visible = [];
+        events.forEach(function (e, ei) {
+          if (state.year !== 'all' && yearOf(e) !== state.year) return;
+          var photos = e.photos || [];
+          var name = e.title || '';
+          var caption = name + (e.place ? ', ' + e.place : '');
+          var grid = el('ul', { className: 'gal-grid' });
+          photos.forEach(function (ph, pi) {
+            var idx = visible.length;
+            var alt = caption + ', photo ' + (pi + 1) + ' of ' + photos.length;
+            var btn = el('button', { type: 'button', className: 'gthumb' }, [
+              el('img', { src: ph.src, alt: alt, loading: 'lazy', decoding: 'async', width: ph.w, height: ph.h })
+            ]);
+            btn.addEventListener('click', function () { openAt(idx); });
+            visible.push({ src: ph.src, alt: alt, caption: caption, n: pi + 1, of: photos.length, btn: btn });
+            grid.appendChild(el('li', null, [btn]));
+          });
+          var headId = 'event-' + ei;
+          box.appendChild(el('section', { className: 'ygroup', 'aria-labelledby': headId }, [
+            el('div', { className: 'ylab gev' }, [
+              el('span', { className: 'gdate', text: monthLabel(e.date) }),
+              el('h2', { id: headId, className: 'gtitle', lang: koLang(name), text: name }),
+              e.place ? el('span', { lang: koLang(e.place), text: e.place }) : null
+            ]),
+            grid
+          ]));
+        });
+        var qs = state.year === 'all' ? '' : '?year=' + state.year;
+        history.replaceState(null, '', location.pathname + qs);
+      }
+
+      if (dialog) {
+        document.getElementById('lb-prev').addEventListener('click', function () { show(current - 1); });
+        document.getElementById('lb-next').addEventListener('click', function () { show(current + 1); });
+        document.getElementById('lb-close').addEventListener('click', function () { dialog.close(); });
+        dialog.addEventListener('close', function () {
+          lbImg.removeAttribute('src');
+          if (opener) opener.focus();
+        });
+        dialog.addEventListener('keydown', function (ev) {
+          if (ev.key === 'ArrowLeft') { ev.preventDefault(); show(current - 1); }
+          else if (ev.key === 'ArrowRight') { ev.preventDefault(); show(current + 1); }
+        });
+        dialog.addEventListener('click', function (ev) {
+          if (ev.target === dialog || ev.target.classList.contains('lb-stage')) dialog.close();
+        });
+        var startX = null;
+        dialog.addEventListener('touchstart', function (ev) { startX = ev.touches[0].clientX; }, { passive: true });
+        dialog.addEventListener('touchend', function (ev) {
+          if (startX === null) return;
+          var dx = ev.changedTouches[0].clientX - startX;
+          startX = null;
+          if (Math.abs(dx) > 50) show(current + (dx < 0 ? 1 : -1));
+        });
+      }
+
+      draw();
+    });
+  }
+
   var page = document.body.getAttribute('data-page');
   if (page === 'home') initHome();
   else if (page === 'people') initPeople();
   else if (page === 'publications') initPublications();
+  else if (page === 'projects') initProjects();
+  else if (page === 'gallery') initGallery();
 })();
