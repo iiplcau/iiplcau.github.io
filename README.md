@@ -50,7 +50,7 @@ HTML을 고칠 필요 없이 아래 데이터 파일만 수정하면 됩니다. 
 { "ko": "홍길동", "en": "Gildong Hong", "photo": "", "homepage": "" }
 ```
 
-사진은 정사각형에 가까운 JPG를 저장소에 올리고 `"photo": "photo-gildong-hong.jpg"`처럼 파일 이름을 적으면 됩니다.
+사진은 얼굴이 가운데 오도록 정사각형(400×400px 정도)으로 자른 JPG를 `people/` 폴더에 올리고 `"photo": "people/gildong-hong.jpg"`처럼 적으면 됩니다. 사진이 없으면 `""`로 두면 기본 아이콘이 나옵니다.
 
 ### 과제 추가 예시
 

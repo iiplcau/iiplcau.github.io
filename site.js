@@ -176,7 +176,7 @@
         (g.members || []).forEach(function (m) {
           var avatar = el('div', { className: 'avatar', 'aria-hidden': 'true' });
           if (m.photo) {
-            avatar.appendChild(el('img', { src: m.photo, alt: '' }));
+            avatar.appendChild(el('img', { src: m.photo, alt: '', width: 400, height: 400, loading: 'lazy', decoding: 'async' }));
           } else {
             avatar.innerHTML = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#7C879B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>';
           }
