@@ -1,5 +1,238 @@
 [
  {
+  "date": "2026.10",
+  "title": "HCLT 2026",
+  "place": "Busan, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2026-10-hclt-1.jpg",
+    "w": 1600,
+    "h": 1199
+   },
+   {
+    "src": "gallery/2026-10-hclt-2.jpg",
+    "w": 1600,
+    "h": 1199
+   }
+  ]
+ },
+ {
+  "date": "2026.08",
+  "title": "KCCV 2026",
+  "place": "Busan, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2026-08-kccv-1.jpg",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "gallery/2026-08-kccv-2.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2026-08-kccv-3.jpg",
+    "w": 1280,
+    "h": 959
+   }
+  ]
+ },
+ {
+  "date": "2026.07",
+  "title": "ACL 2026",
+  "place": "San Diego, US",
+  "photos": [
+   {
+    "src": "gallery/2026-07-acl-5.jpg",
+    "w": 1599,
+    "h": 1599
+   },
+   {
+    "src": "gallery/2026-07-acl-1.jpg",
+    "w": 1600,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-07-acl-2.jpg",
+    "w": 1600,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-07-acl-3.jpg",
+    "w": 1600,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-07-acl-4.jpg",
+    "w": 1600,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "date": "2026.06",
+  "title": "KCC 2026",
+  "place": "Jeju, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2026-06-kcc-1.jpg",
+    "w": 1200,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-06-kcc-2.jpg",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "gallery/2026-06-kcc-3.jpg",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "gallery/2026-06-kcc-4.jpg",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "gallery/2026-06-kcc-5.jpg",
+    "w": 1280,
+    "h": 960
+   }
+  ]
+ },
+ {
+  "date": "2026.06",
+  "title": "PAKDD 2026",
+  "place": "Hong Kong, China",
+  "photos": [
+   {
+    "src": "gallery/2026-06-pakdd-3.jpg",
+    "w": 1200,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-06-pakdd-1.jpg",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "gallery/2026-06-pakdd-2.jpg",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "gallery/2026-06-pakdd-4.jpg",
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ {
+  "date": "2026.06",
+  "title": "CVPR 2026",
+  "place": "Denver, US",
+  "photos": [
+   {
+    "src": "gallery/2026-06-cvpr-3.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2026-06-cvpr-1.jpg",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "gallery/2026-06-cvpr-2.jpg",
+    "w": 1280,
+    "h": 960
+   }
+  ]
+ },
+ {
+  "date": "2026.05",
+  "title": "LREC 2026",
+  "place": "Palma, Spain",
+  "photos": [
+   {
+    "src": "gallery/2026-05-lrec-1.jpg",
+    "w": 1200,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-05-lrec-2.jpg",
+    "w": 1206,
+    "h": 576
+   },
+   {
+    "src": "gallery/2026-05-lrec-3.jpg",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "gallery/2026-05-lrec-4.jpg",
+    "w": 1200,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "date": "2026.04",
+  "title": "JCCI 2026",
+  "place": "Yeosu, South Korea",
+  "photos": [
+   {
+    "src": "gallery/2026-04-jcci-3.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2026-04-jcci-1.jpg",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "gallery/2026-04-jcci-2.jpg",
+    "w": 1280,
+    "h": 960
+   }
+  ]
+ },
+ {
+  "date": "2026.01",
+  "title": "AAAI 2026",
+  "place": "Singapore",
+  "photos": [
+   {
+    "src": "gallery/2026-01-aaai-1.jpg",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "gallery/2026-01-aaai-2.jpg",
+    "w": 1215,
+    "h": 912
+   },
+   {
+    "src": "gallery/2026-01-aaai-3.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2026-01-aaai-4.jpg",
+    "w": 873,
+    "h": 1170
+   },
+   {
+    "src": "gallery/2026-01-aaai-5.jpg",
+    "w": 1280,
+    "h": 960
+   }
+  ]
+ },
+ {
   "date": "2025.11",
   "title": "CIKM 2025",
   "place": "Seoul, South Korea",
@@ -357,6 +590,23 @@
   ]
  },
  {
+  "date": "2024.11",
+  "title": "ICCE-Asia 2024",
+  "place": "Danang, Vietnam",
+  "photos": [
+   {
+    "src": "gallery/2024-11-icce-asia-1.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2024-11-icce-asia-2.jpg",
+    "w": 960,
+    "h": 1280
+   }
+  ]
+ },
+ {
   "date": "2024.10",
   "title": "ECCV 2024",
   "place": "Milano, Italy",
@@ -485,6 +735,23 @@
     "src": "gallery/2024-06-kics-1.jpg",
     "w": 702,
     "h": 938
+   }
+  ]
+ },
+ {
+  "date": "2024.06",
+  "title": "NAACL 2024",
+  "place": "Mexico City, Mexico",
+  "photos": [
+   {
+    "src": "gallery/2024-06-naacl-2.jpg",
+    "w": 1200,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2024-06-naacl-1.jpg",
+    "w": 1200,
+    "h": 1600
    }
   ]
  },
