@@ -1,6 +1,48 @@
 [
  {
   "date": "2026.10",
+  "title": "EMNLP 2026",
+  "place": "Budapest, Hungary",
+  "photos": [
+   {
+    "src": "gallery/2026-10-emnlp-1.jpg",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "gallery/2026-10-emnlp-2.jpg",
+    "w": 1199,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-10-emnlp-3.jpg",
+    "w": 1043,
+    "h": 1391
+   },
+   {
+    "src": "gallery/2026-10-emnlp-4.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2026-10-emnlp-5.jpg",
+    "w": 960,
+    "h": 1047
+   },
+   {
+    "src": "gallery/2026-10-emnlp-6.jpg",
+    "w": 1199,
+    "h": 1600
+   },
+   {
+    "src": "gallery/2026-10-emnlp-7.jpg",
+    "w": 960,
+    "h": 1280
+   }
+  ]
+ },
+ {
+  "date": "2026.10",
   "title": "HCLT 2026",
   "place": "Busan, South Korea",
   "photos": [
