@@ -1,5 +1,27 @@
 [
  {
+  "date": "2026.11",
+  "title": "CIKM 2026",
+  "place": "Rome, Italy",
+  "photos": [
+   {
+    "src": "gallery/2026-11-cikm-1.jpg",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "gallery/2026-11-cikm-2.jpg",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "gallery/2026-11-cikm-3.jpg",
+    "w": 960,
+    "h": 1280
+   }
+  ]
+ },
+ {
   "date": "2026.10",
   "title": "EMNLP 2026",
   "place": "Budapest, Hungary",
