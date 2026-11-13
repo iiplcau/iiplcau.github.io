@@ -1,5 +1,49 @@
 [
   {
+    "title": "Beyond Accuracy: Evaluating Evidence Preservation under Visual Token Pruning in MLLMs",
+    "authors": "Kahyeon Kim, Byeonggeuk Lim, YoungBin Kim",
+    "venue": "The 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027)",
+    "badge": "EACL 2027",
+    "type": "conference",
+    "year": 2027,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Tracing Calibration-Language Effects Through Multilingual MoE Compression",
+    "authors": "Minjeong Kwon, Jinhee Jang, JungMin Yun, YoungBin Kim",
+    "venue": "The 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027)",
+    "badge": "EACL 2027",
+    "type": "conference",
+    "year": 2027,
+    "tags": [],
+    "links": []
+  },
+  {
+    "title": "Acquire, Preserve, or Abstain: Student-Aware Factual Knowledge Distillation",
+    "authors": "Hayeong Ryu, Sunhee Jo, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EACL 2027",
+    "badge": "EACL 2027",
+    "type": "conference",
+    "year": 2027,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
+    "title": "Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning",
+    "authors": "Hoejoon Kwon, Jinhee Jang, Byeonggeuk Lim, YoungBin Kim",
+    "venue": "Findings of the Association for Computational Linguistics: EACL 2027",
+    "badge": "EACL 2027",
+    "type": "conference",
+    "year": 2027,
+    "tags": [
+      "Findings"
+    ],
+    "links": []
+  },
+  {
     "title": "Misalignment-Free Defocus Deblurring via Optically Guided Aligned Synthesis",
     "authors": "SeungHoon Lee, Eunju Lee, JuneHyoung Kwon, Jinhee Jang, YoungBin Kim",
     "venue": "The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027)",
